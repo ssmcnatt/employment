@@ -1,3 +1,3 @@
-# * Resume
-# * Cover Letters
-# * References
+# - Resume
+# - Cover Letters
+# - References
